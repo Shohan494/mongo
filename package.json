@@ -1,12 +1,8 @@
 {
   "name": "mongo",
   "version": "1.0.0",
-  "description": "mongodb practice",
+  "description": "mongodb learnyoumongo",
   "main": "index.js",
-  "dependencies": {
-    "mongodb": "^2.2.22"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Shohan494/mongo.git"
   },
-  "author": "Shohanul Alam",
+  "author": "Shohan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shohan494/mongo/issues"
